@@ -1,0 +1,9 @@
+- tag: georreferenciamento
+  label: Georreferenciamento
+  color: yellow
+- tag: ecotoxicologia
+  label: Ecotoxicologia
+  color: green
+- tag: ambiental
+  label: Ambiental
+  color: red
